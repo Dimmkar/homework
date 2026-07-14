@@ -1,0 +1,30 @@
+*{
+    text-align: justify;
+}
+.heading {
+    color: brown;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 900;
+}
+h2 {
+    color: brown;
+    text-shadow: 2px 3px 1px rgba(165, 42, 42, 0.507);
+}
+a{
+    color: darkolivegreen;
+}
+a:visited{
+    color: gray;
+}
+a:hover {
+    color: olive;
+}
+th, td{
+    color: aliceblue;
+    background: black;
+}
+footer{
+        color: aliceblue;
+    background: black;
+}
+
