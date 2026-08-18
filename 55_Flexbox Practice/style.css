@@ -1,0 +1,49 @@
+html {
+    font-family: sans-serif;
+}
+
+body * {
+    box-sizing: border-box;
+}
+
+ul {
+
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+li {
+    display: inline;
+}
+
+.number {
+    text-decoration: none;
+}
+
+.a {
+    color: #000;
+    margin: 24px 10px;
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+    margin: 24px 10px;
+    background-color: black;
+}
+
+.container {
+    max-width: 1320px;
+    /* min-height: 90px; */
+    padding: 0 15px;
+    margin: 0 auto;
+    border-bottom:  2px solid #969696;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
